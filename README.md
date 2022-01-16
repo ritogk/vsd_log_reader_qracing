@@ -1,10 +1,11 @@
 # なにこれ？
-Qracingで出力したcsvログをvsd for gpsで読み取るためのプラグインです。
+Qracingで出力したcsvログをvsd for gpsで読み取るためのプラグインです。<br>
 
-# 環境
-aviutl 1.0.0<br>
-Qracing 3.99.400
+vsd for gps<br>
+https://yoshinrt.github.io/vsd/<br>
 
+Qracing<br>
+http://racing.qstarz.com/Japan/JP-Download.html<br>
 
 # 使い方
 ①Qracing側からcsvログを出力<br>
